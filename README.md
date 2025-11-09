@@ -23,6 +23,4 @@ Frameworks/Libraries: ReactJS, Bootstrap
 Tools: Git, VS Code
 
 Contact
-Email: dinulishamindi@gmail..com
-GitHub: 
-LinkedIn: 
+Email: dinulishamindi@gmail.com
