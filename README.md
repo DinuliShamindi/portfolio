@@ -24,7 +24,5 @@ Tools: Git, VS Code
 
 Contact
 Email: dinulishamindi@gmail..com
-
-GitHub: github.com/yourusername
-
-LinkedIn: linkedin.com/in/yourusername
+GitHub: 
+LinkedIn: 
